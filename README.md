@@ -1,3 +1,3 @@
 # Berkeley-CS189-Resources
-for coselfstudy
+for coselfstudy //
 coming soon~
